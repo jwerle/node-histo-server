@@ -1,0 +1,32 @@
+{
+  "name": "histo-server",
+  "version": "0.0.1",
+  "description": "TCP server for streaming data to a histo graph",
+  "main": "index.js",
+  "bin": {
+    "histo-server": "./bin/histo-server"
+  },
+  "preferGlobal": true,
+  "scripts": {},
+  "keywords": [
+    "histogram",
+    "histo",
+    "server",
+    "stream",
+    "tcp"
+  ],
+  "author": "Joseph Werle",
+  "license": "MIT",
+  "dependencies": {
+    "histo": "0.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jwerle/node-histo-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jwerle/node-histo-server/issues"
+  },
+  "homepage": "https://github.com/jwerle/node-histo-server"
+}
