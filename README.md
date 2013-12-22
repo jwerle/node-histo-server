@@ -27,31 +27,6 @@ $ PORT=3000 histo-server "Title of my histogram"
 Will yield an empty histo with a title:
 
 ```
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
- 0 ․
-
  0 ․
 
  0 ․
@@ -65,7 +40,7 @@ Will yield an empty histo with a title:
  0 ․
        ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ 
 
-  Title of my histogram (port='3000')
+   Title of my histogram (port='3000')
 ```
 
 ## license
