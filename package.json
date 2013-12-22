@@ -1,7 +1,7 @@
 {
   "name": "histo-server",
   "version": "0.0.1",
-  "description": "TCP server for streaming data to a histo graph",
+  "description": "TCP server for streaming data to a histogram",
   "main": "index.js",
   "bin": {
     "histo-server": "./bin/histo-server"
