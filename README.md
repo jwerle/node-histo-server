@@ -1,7 +1,7 @@
 node-histo-server
 =================
 
-TCP server for streaming data to a histo graph
+TCP server for streaming data to a histogram
 
 ## install
 
